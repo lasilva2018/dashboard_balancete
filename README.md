@@ -11,7 +11,7 @@ Dashboard interativo para visualização e comparação de balancetes financeiro
 - 📱 **Interface responsiva** - Funciona em desktop e mobile
 - 🎯 **Modo Demo** - Teste sem configurar banco de dados
 
----
+-----
 
 ## 🚀 **INÍCIO RÁPIDO**
 
